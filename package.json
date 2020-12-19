@@ -18,7 +18,7 @@
   "license": "MPL-2.0",
   "dependencies": {
     "@newrelic/native-metrics": "^5.1.0",
-    "amqplib": "^0.4.1",
+    "amqplib": "^0.6.0",
     "aws-sdk": "^2.2.30",
     "babel-cli": "^6.2.0",
     "babel-core": "^6.2.1",
