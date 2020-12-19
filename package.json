@@ -33,7 +33,7 @@
     "joi": "^7.0.1",
     "logfmt": "^1.2.0",
     "moment": "^2.11.1",
-    "mongodb": "^3.5.2",
+    "mongodb": "^3.6.3",
     "newrelic": "^6.7.1",
     "proxy-agent": "^2.2.0",
     "randomstring": "^1.1.5",
